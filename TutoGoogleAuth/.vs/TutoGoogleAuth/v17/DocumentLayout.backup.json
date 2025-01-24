@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\tutogoogleauth\\tutogoogleauth\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|solutionrelative:tutogoogleauth\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\tutogoogleauth\\tutogoogleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|solutionrelative:tutogoogleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\tutogoogleauth\\tutogoogleauth\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1097301E-239D-44B5-96F3-A4DF5F806855}|TutoGoogleAuth\\TutoGoogleAuth.csproj|solutionrelative:tutogoogleauth\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Form1.cs",
+              "RelativeDocumentMoniker": "TutoGoogleAuth\\Form1.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Form1.cs",
+              "RelativeToolTip": "TutoGoogleAuth\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:08:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Program.cs",
+              "RelativeDocumentMoniker": "TutoGoogleAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Program.cs",
+              "RelativeToolTip": "TutoGoogleAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:05:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Form1.cs",
+              "RelativeDocumentMoniker": "TutoGoogleAuth\\Form1.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\TutoGoogleAuth\\TutoGoogleAuth\\Form1.cs [Conception]",
+              "RelativeToolTip": "TutoGoogleAuth\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:59:32.056Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
